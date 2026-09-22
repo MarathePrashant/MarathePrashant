@@ -1,6 +1,6 @@
 # Hi, I'm Prashant Marathe 👋
 
-## 📊 Aspiring Data Analyst | Business Intelligence & Analytics
+## 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel | KPI Dashboards & Business Intelligence
 > Transforming complex datasets into clear, actionable business strategies and interactive executive dashboards.
 
 ---
