@@ -25,9 +25,9 @@
 
 | Project | Tech Stack | Business Impact & Metrics | Links |
 | :--- | :--- | :--- | :---: |
-| **🏨 Hotel Booking Cancellation Analysis** | Python, EDA, Pandas, Seaborn | Analyzed **118k+ records** to isolate key drivers behind a **37.14% cancellation rate** representing **$25.91M in revenue exposure**. | [Repository →](https://github.com/MarathePrashant) |
-| **🛒 Blinkit Grocery Sales Dashboard** | Power BI, DAX, Power Query | Built an executive dashboard evaluating **$1.20M revenue** across **8,500+ items**, segmented by outlet size, location tier, and product fat content. | [Repository →](https://github.com/MarathePrashant) |
-| **📦 Vendor Performance & Inventory Diagnostics** | Python, Power BI, Advanced Excel | Evaluated vendor margins, purchasing trends, and delivery timeliness to optimize inventory turns and operational spend. | [Repository →](https://github.com/MarathePrashant) |
+| **🏨 Hotel Booking Cancellation Analysis** | Python, EDA, Pandas, Seaborn | Analyzed **118k+ records** to isolate key drivers behind a **37.14% cancellation rate** representing **$25.91M in revenue exposure**. | [Repository →](https://github.com/MarathePrashant/Hotel-Booking-Cancellation-Analysis) |
+| **🛒 Blinkit Grocery Sales Dashboard** | Power BI, DAX, Power Query | Built an executive dashboard evaluating **$1.20M revenue** across **8,500+ items**, segmented by outlet size, location tier, and product fat content. | [Repository →](https://github.com/MarathePrashant/blinkit-grocery-sales-analytics) |
+| **📦 Vendor Performance & Inventory Diagnostics** | Python, Power BI, Advanced Excel | Evaluated vendor margins, purchasing trends, and delivery timeliness to optimize inventory turns and operational spend. | [Repository →](https://github.com/MarathePrashant/vendor-performance-analysis) |
 
 ---
 
