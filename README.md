@@ -56,7 +56,7 @@ Every repository in this portfolio adheres to an enterprise delivery standard:
 
 ### 📬 Connect With Me
 
-- **Portfolio Website:** [prashant-marathe.framer.website](https://prashant-marathe.framer.website/)[cite: 1]
-- **LinkedIn:** [linkedin.com/in/prashantmarathe17](https://www.linkedin.com/in/prashantmarathe17)[cite: 1]
-- **Email:** [p04747391@gmail.com](mailto:p04747391@gmail.com)[cite: 1]
-- **Location:** Pune, Maharashtra, India (Open to Relocation & Remote roles)[cite: 1]
+- **Portfolio Website:** [prashant-marathe.framer.website](https://prashant-marathe.framer.website/)
+- **LinkedIn:** [linkedin.com/in/prashantmarathe17](https://www.linkedin.com/in/prashantmarathe17)
+- **Email:** [p04747391@gmail.com](mailto:p04747391@gmail.com)
+- **Location:** Pune, Maharashtra, India (Open to Relocation & Remote roles)
