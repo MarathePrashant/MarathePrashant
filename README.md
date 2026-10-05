@@ -3,10 +3,10 @@
 
 > Bridging business operations and analytics by engineering automated ETL pipelines, star-schema data models, and executive KPI scorecards that directly reduce operational costs and revenue risk.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://prashant-marathe.framer.website/)[cite: 1]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantmarathe17)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-p04747391%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:p04747391@gmail.com)[cite: 1]
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square&logo=googlemaps&logoColor=red)](#)[cite: 1]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://prashant-marathe.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantmarathe17)
+[![Email](https://img.shields.io/badge/Email-p04747391%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:p04747391@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square&logo=googlemaps&logoColor=red)](#)
 
 ---
 
