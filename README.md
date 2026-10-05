@@ -12,12 +12,12 @@
 
 ### 💼 Professional Snapshot
 
-- **Education:** B.Tech in Artificial Intelligence & Data Science (G.H. Raisoni College of Engineering, Class of 2026)[cite: 1, 2].
-- **Industry Experience:** Former **Data Science Intern at Enorvia Global** (6 months)[cite: 1]:
-  - Automated enterprise ETL and reporting workflows using Python and Power Query, cutting manual reporting turnaround time by **40%**[cite: 1].
-  - Cleaned, validated, and normalized **50,000+ transactional records** to ensure reporting accuracy across executive operational dashboards[cite: 1, 2].
-  - Developed and deployed multi-source Power BI dashboards tracking vendor performance KPIs, SLA delivery rates, and marketing ROI[cite: 1, 2].
-- **Global Communication:** English (Full Professional), Japanese (Professional Working Proficiency), Hindi, Marathi[cite: 1].
+- **Education:** B.Tech in Artificial Intelligence & Data Science (G.H. Raisoni College of Engineering, Class of 2026).
+- **Industry Experience:** Former **Data Science Intern at Enorvia Global** (6 months):
+  - Automated enterprise ETL and reporting workflows using Python and Power Query, cutting manual reporting turnaround time by **40%**.
+  - Cleaned, validated, and normalized **50,000+ transactional records** to ensure reporting accuracy across executive operational dashboards.
+  - Developed and deployed multi-source Power BI dashboards tracking vendor performance KPIs, SLA delivery rates, and marketing ROI.
+- **Global Communication:** English (Full Professional), Japanese (Professional Working Proficiency), Hindi, Marathi.
 
 ---
 
