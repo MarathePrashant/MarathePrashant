@@ -1,62 +1,215 @@
 # Hi, I'm Prashant Marathe 👋
-### Data Analyst | Business Intelligence • SQL • Power BI • Python • Excel
 
-> Bridging business operations and analytics by engineering automated ETL pipelines, star-schema data models, and executive KPI scorecards that directly reduce operational costs and revenue risk.
+### Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://prashant-marathe.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantmarathe17)
-[![Email](https://img.shields.io/badge/Email-p04747391%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:p04747391@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square&logo=googlemaps&logoColor=red)](#)
+I’m a **B.Tech graduate in Artificial Intelligence & Data Science** with hands-on experience in **data cleaning, SQL analysis, Python, ETL, Power BI dashboards, Excel, KPI reporting, and business analytics**.
 
----
+During my internship at **Enorvia Global**, I worked with real-world business data, automated reporting workflows, cleaned **50K+ records**, and developed dashboards to help teams monitor operational KPIs and performance.
 
-### 💼 Professional Snapshot
+🎯 **Currently seeking:** Entry-Level Data Analyst | BI Analyst | Business Analyst opportunities
 
-- **Education:** B.Tech in Artificial Intelligence & Data Science (G.H. Raisoni College of Engineering, Class of 2026).
-- **Industry Experience:** Former **Data Science Intern at Enorvia Global** (6 months):
-  - Automated enterprise ETL and reporting workflows using Python and Power Query, cutting manual reporting turnaround time by **40%**.
-  - Cleaned, validated, and normalized **50,000+ transactional records** to ensure reporting accuracy across executive operational dashboards.
-  - Developed and deployed multi-source Power BI dashboards tracking vendor performance KPIs, SLA delivery rates, and marketing ROI.
-- **Global Communication:** English (Full Professional), Japanese (Professional Working Proficiency), Hindi, Marathi.
+📍 Pune, Maharashtra, India | Open to Relocation & Remote Opportunities
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0055FF?style=flat-square\&logo=framer\&logoColor=white)](https://prashant-marathe.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prashantmarathe17)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:p04747391@gmail.com)
 
 ---
 
-### 🛠️️ Technical Competencies
+## 💼 Experience
 
-| Domain | Core Tools & Frameworks | Methodologies & Techniques |
-| :--- | :--- | :--- |
-| **Databases & Querying** | SQL (PostgreSQL, MySQL, SQLite) | Complex CTEs, Window Functions (`RANK`, `LEAD`/`LAG`), Star Schema Design, Indexing |
-| **Data Processing & Scripting** | Python (Pandas, NumPy, SciPy) | Automated ETL Pipelines, Outlier Filtering (IQR), Cohort Tracking, Data Hygiene |
-| **Business Intelligence & Dashboards** | Microsoft Power BI, Tableau, Excel | Advanced DAX (Time Intelligence, Iterators), Dynamic Power Query, Star Schemas |
-| **Commercial Analytics** | Financial & Operational Diagnostics | SLA Adherence, Margin Diagnostics, Inventory Turns, Churn Prediction, OTIF Tracking |
+### Data Science Intern — Enorvia Global Pvt. Ltd.
 
----
+**Nov 2025 – Apr 2026**
 
-### 📂 Featured Analytics Case Studies
-
-| Project & Domain | Primary Stack | Key Findings & Business Deliverables | Direct Access |
-| :--- | :--- | :--- | :---: |
-| **📦 Vendor Procurement & SLA Diagnostics**<br>*(Supply Chain & Operations)* | SQL, Power BI, Advanced Excel | Analyzed multi-tier vendor SLAs to uncover that **top 3 suppliers drove 64% of total procurement spend** while underperforming suppliers triggered an **8.5% throughput loss**. Built full OTIF tracking scorecards. | [View Case Study →](https://github.com/MarathePrashant/vendor-performance-analysis) |
-| **🏨 Hotel Cancellation & Revenue Diagnostics**<br>*(Hospitality & Yield Management)* | Python, Pandas, Seaborn | Evaluated **118,000+ guest records** to diagnose a **37.14% cancellation rate** representing **$25.91M in revenue exposure**. Identified advance bookings (>90 days) as 2.3x higher risk and proposed calibrated overbooking safeguards. | [View Case Study →](https://github.com/MarathePrashant/Hotel-Booking-Cancellation-Analysis) |
-| **🛒 Quick-Commerce Grocery Sales Analytics**<br>*(Retail & Micro-Fulfillment)* | Power BI, DAX, Star Schema | Modelled **$1.20M in revenue** across **8,500+ items**. Uncovered that Tier-3 micro-hubs contributed **41% of volume** and healthy-alternative SKUs drove **65% of food revenue**, establishing dark-store layout guidelines. | [View Case Study →](https://github.com/MarathePrashant/blinkit-grocery-sales-analytics) |
-| **🚚 End-to-End Supply Chain Performance**<br>*(Logistics & Distribution)* | Python, Matplotlib, Seaborn | Mapped transit delays across arterial routes; proved standard shipping was tied to **60%+ of delivery bottlenecks** and quantified that >3-day transit delays caused an **18% spike in returns**. | [View Case Study →](https://github.com/MarathePrashant/End-to-End-Supply-Chain-Performance-Analysis-using-Python) |
-| **📊 Retail Gross Profitability Diagnostics**<br>*(Financial Analysis & Pricing)* | Advanced Excel, Power Query, Dynamic Modeling | Built dynamic models identifying that **discounting past 20% produced net negative margins**. Established minimum basket thresholds ($35) to protect unit-level shipping margins. | [View Case Study →](https://github.com/MarathePrashant/retail-sales-profitability-analysis-excel) |
+* Automated data preparation and reporting workflows using **Python and Power Query**, reducing manual reporting effort by **up to 40%**.
+* Cleaned, validated, and transformed **50K+ records** to improve data quality and reporting reliability.
+* Built **Power BI dashboards** for operational KPIs, vendor performance, SLA tracking, and marketing analysis.
+* Used **SQL, Python, Excel, DAX, Power Query, and data modeling** to transform raw business data into actionable insights.
 
 ---
 
-### 📈 Analytics Architecture & Workflow Standard
+## 🛠️ Technical Skills
 
-Every repository in this portfolio adheres to an enterprise delivery standard:
-1. **Business Problem Framing:** Quantifying the operational bottleneck, margin leak, or SLA deficit before writing queries.
-2. **Robust Data Hygiene:** Normalizing data types, handling edge-case anomalies, and building clear dimensional schemas.
-3. **Statistical & KPI Analysis:** Calculating actionable measures rather than simple summary averages.
-4. **Strategic Takeaways:** Formulating executive-ready business recommendations and operational safeguards.
+| Category               | Skills                                                                    |
+| ---------------------- | ------------------------------------------------------------------------- |
+| **SQL & Databases**    | SQL, PostgreSQL, MySQL, SQLite, CTEs, Joins, Subqueries, Window Functions |
+| **Python**             | Pandas, NumPy, SciPy, Matplotlib, Seaborn                                 |
+| **BI & Visualization** | Power BI, DAX, Power Query, Tableau, Excel                                |
+| **Data Analytics**     | Data Cleaning, EDA, KPI Analysis, Data Visualization, Business Analysis   |
+| **Data Engineering**   | ETL / ELT, Data Transformation, Data Validation, Data Modeling            |
+| **Excel Analytics**    | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, Advanced Formulas        |
+| **Analytics Concepts** | Star Schema, Dimensional Modeling, Time-Series Analysis, Cohort Analysis  |
 
 ---
 
-### 📬 Connect With Me
+## 📊 Featured Data Analytics Projects
 
-- **Portfolio Website:** [prashant-marathe.framer.website](https://prashant-marathe.framer.website/)
-- **LinkedIn:** [linkedin.com/in/prashantmarathe17](https://www.linkedin.com/in/prashantmarathe17)
-- **Email:** [p04747391@gmail.com](mailto:p04747391@gmail.com)
-- **Location:** Pune, Maharashtra, India (Open to Relocation & Remote roles)
+### 🏨 [Hotel Cancellation & Revenue Analysis](https://github.com/MarathePrashant/Hotel-Booking-Cancellation-Analysis)
+
+**Python • Pandas • EDA • Data Visualization**
+
+Analyzed **118K+ hotel booking records** to understand cancellation behavior and potential revenue impact.
+
+**Key Analysis**
+
+* Identified a **37.14% cancellation rate**.
+* Quantified approximately **$25.91M in potential revenue exposure**.
+* Analyzed cancellation patterns across lead time, customer segments, deposit types, and market segments.
+* Developed business recommendations for reducing cancellation risk.
+
+**Focus:** Revenue Analytics • Customer Behavior • EDA • Business Insights
+
+---
+
+### 📦 [Vendor Procurement & SLA Analysis](https://github.com/MarathePrashant/vendor-performance-analysis)
+
+**Python • SQL • SQLite • Power BI**
+
+Built an end-to-end vendor performance analytics solution to evaluate procurement, sales, profitability, and supplier performance.
+
+**Key Analysis**
+
+* Analyzed **10K+ vendor transaction records**.
+* Evaluated vendor sales, purchases, gross profit, and margins.
+* Used SQL CTEs and joins for business analysis.
+* Built a Power BI dashboard with vendor and product-level KPIs.
+
+**Focus:** Supply Chain • Procurement • SQL Analytics • Power BI
+
+---
+
+### 🛒 [Quick-Commerce Grocery Sales Analytics](https://github.com/MarathePrashant/blinkit-grocery-sales-analytics)
+
+**Power BI • DAX • Data Modeling**
+
+Built an interactive sales analytics dashboard for a quick-commerce grocery business.
+
+**Key Analysis**
+
+* Analyzed **$1.20M+ in sales** across **8,500+ products/items**.
+* Created KPI measures for sales, orders, product performance, and outlet performance.
+* Implemented a structured data model and interactive Power BI dashboard.
+* Analyzed product categories and outlet-level performance.
+
+**Focus:** Retail Analytics • DAX • Power BI • KPI Reporting
+
+---
+
+### 🚚 [End-to-End Supply Chain Performance Analysis](https://github.com/MarathePrashant/End-to-End-Supply-Chain-Performance-Analysis-using-Python)
+
+**Python • Pandas • Matplotlib • Seaborn**
+
+Analyzed supply chain and delivery data to identify operational bottlenecks and performance patterns.
+
+**Key Analysis**
+
+* Examined delivery times and transportation performance.
+* Identified factors associated with delivery delays.
+* Analyzed relationships between transit time and returns.
+* Developed operational insights from shipment-level data.
+
+**Focus:** Operations Analytics • Supply Chain • EDA • Root-Cause Analysis
+
+---
+
+### 📊 [Retail Sales & Profitability Analysis](https://github.com/MarathePrashant/retail-sales-profitability-analysis-excel)
+
+**Excel • Power Query • Pivot Tables • Business Analytics**
+
+Built an Excel-based profitability analysis workflow to evaluate sales, discounts, costs, and margins.
+
+**Key Analysis**
+
+* Evaluated product-level sales and profitability.
+* Analyzed the relationship between discounting and margins.
+* Used Power Query for data preparation and transformation.
+* Built dynamic Excel-based reporting and KPI analysis.
+
+**Focus:** Excel Analytics • Profitability • Pricing • Business Reporting
+
+---
+
+## 🔄 My Analytics Workflow
+
+I approach analytics projects using a practical end-to-end workflow:
+
+```text
+Business Problem
+       ↓
+Data Collection
+       ↓
+Data Cleaning & Validation
+       ↓
+ETL / Transformation
+       ↓
+Exploratory Data Analysis
+       ↓
+SQL / Python Analysis
+       ↓
+KPI Definition
+       ↓
+Data Modeling
+       ↓
+Power BI / Excel Dashboard
+       ↓
+Business Insights
+       ↓
+Recommendations
+```
+
+The goal is not just to build dashboards, but to turn **raw data into clear insights that support better business decisions**.
+
+---
+
+## 🎯 What I Work With
+
+**Data Analysis**
+
+`SQL` `Python` `Pandas` `Excel` `Power BI` `Tableau`
+
+**Business Intelligence**
+
+`DAX` `Power Query` `KPI Reporting` `Data Modeling` `Dashboard Development`
+
+**Analytics**
+
+`EDA` `Data Cleaning` `Data Visualization` `Customer Analytics` `Sales Analytics` `Supply Chain Analytics`
+
+---
+
+## 📚 Education
+
+### B.Tech — Artificial Intelligence & Data Science
+
+**G.H. Raisoni College of Engineering, Jalgaon**
+**2022 – 2026**
+
+---
+
+## 📈 Currently Improving
+
+* Advanced SQL for analytical problem solving
+* Power BI & DAX
+* Business Intelligence
+* Data Modeling
+* Advanced Excel
+* Real-world business analytics
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for opportunities where I can use data to solve practical business problems and continue developing as a Data Analyst.
+
+**📧 Email:** [p04747391@gmail.com](mailto:p04747391@gmail.com)
+
+**💼 LinkedIn:** [linkedin.com/in/prashantmarathe17](https://www.linkedin.com/in/prashantmarathe17)
+
+**🌐 Portfolio:** [prashant-marathe.framer.website](https://prashant-marathe.framer.website/)
+
+**💻 GitHub:** [github.com/MarathePrashant](https://github.com/MarathePrashant)
+
+---
+
+⭐ If you find my analytics projects useful, feel free to explore the repositories and connect with me.
